@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_train_appu.TEST2</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>TEST2</name>
+        <script><![CDATA[var TEST2 = Class.create();
+TEST2.prototype = {
+    initialize: function() {
+    },
+//TEST 2
+    type: 'TEST2'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>aparna.mandava@snc</sys_created_by>
+        <sys_created_on>2025-01-07 04:37:31</sys_created_on>
+        <sys_id>e17b4c042bc79210b404f2a4ce91bf68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEST2</sys_name>
+        <sys_package display_value="train_appu" source="x_snc_train_appu">62ba613b3b76521031a353fa16e45aae</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="train_appu">62ba613b3b76521031a353fa16e45aae</sys_scope>
+        <sys_update_name>sys_script_include_e17b4c042bc79210b404f2a4ce91bf68</sys_update_name>
+        <sys_updated_by>aparna.mandava@snc</sys_updated_by>
+        <sys_updated_on>2025-01-07 04:37:31</sys_updated_on>
+    </sys_script_include>
+</record_update>
