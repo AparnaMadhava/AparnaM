@@ -24,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>Test</short_description>
         <source>x_snc_train_appu</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0000005210</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -32,9 +32,9 @@
         <sys_created_by>aparna.mandava@snc</sys_created_by>
         <sys_created_on>2025-01-06 16:55:01</sys_created_on>
         <sys_id>62ba613b3b76521031a353fa16e45aae</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>aparna.mandava@snc</sys_updated_by>
-        <sys_updated_on>2025-01-06 16:55:02</sys_updated_on>
+        <sys_updated_on>2025-01-07 05:18:09</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
